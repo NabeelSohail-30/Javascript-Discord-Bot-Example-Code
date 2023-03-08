@@ -140,5 +140,5 @@ client.on('messageCreate', async (message) => {
     //console.log(message.author.toString() + ": " + message.content);
 });
 
-client.login('MTA4Mjg4MzI5MzY1OTI3NTMxNg.GtdR0K.SbbSGYn9Rt2I8gJzu5cbI6VMkY6J5X9IPrN5TY')
+client.login('token')
 
